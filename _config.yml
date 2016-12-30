@@ -2,7 +2,7 @@ title: Mitros1973
 description: multimitros.blogspot.gr
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-hacker
 
 gems:
   - jekyll-mentions
